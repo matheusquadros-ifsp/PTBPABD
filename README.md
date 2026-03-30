@@ -13,3 +13,9 @@ Descrição da atividade: Na atividade 02, foram executados os scripts DDL_MySQL
 
 Atividade 03 - Expressões join e views
 Descrição da atividade: Na atividade 03, foi desenvolvido o script Consultas_JOIN_e_view.sql. Foram utilizados os conceitos de consultas com JOIN e criação de View durante a execução da atividade.
+
+Atividade 04 - Consultas avançadas com JOIN, subconsultas e views
+Descrição da atividade: Na atividade 04, foi desenvolvido o script Consultas_join_e_view_2.sql. Foram utilizados conceitos de LEFT JOIN, subconsultas correlacionadas, função COALESCE para tratamento de valores nulos, criação de tabela auxiliar grade_points e criação de View para cálculo de coeficiente de rendimento acadêmico.
+
+Atividade 05 - Constraints e integridade de dados
+Descrição da atividade: Na atividade 05, foi desenvolvido o script Create_table_constraints_checks.sql. Foram utilizados os conceitos de criação de tabelas com restrições CHECK, definição de constraint UNIQUE composta, alteração de coluna com NOT NULL e criação de chave estrangeira (FOREIGN KEY) para integridade referencial entre tabelas.
