@@ -19,3 +19,6 @@ Descrição da atividade: Na atividade 04, foi desenvolvido o script Consultas_j
 
 Atividade 05 - Constraints e integridade de dados
 Descrição da atividade: Na atividade 05, foi desenvolvido o script Create_table_constraints_checks.sql. Foram utilizados os conceitos de criação de tabelas com restrições CHECK, definição de constraint UNIQUE composta, alteração de coluna com NOT NULL e criação de chave estrangeira (FOREIGN KEY) para integridade referencial entre tabelas.
+
+Atividade 06 - Criação de schema, tabelas e integridade referencial com cascata
+Descrição da atividade: Na atividade 06, foi desenvolvido o script de avaliação contínua. Foi criado o schema avaliacaocontinua e as tabelas company, employee, manages e works com suas respectivas chaves primárias e restrições NOT NULL. Em seguida, foram criadas as chaves estrangeiras com ações em cascata (ON UPDATE CASCADE e ON DELETE CASCADE) para garantir a integridade referencial entre as relações works/employee, works/company e manages/employee.
