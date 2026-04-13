@@ -22,3 +22,6 @@ Descrição da atividade: Na atividade 05, foi desenvolvido o script Create_tabl
 
 Atividade 06 - Criação de schema, tabelas e integridade referencial com cascata
 Descrição da atividade: Na atividade 06, foi desenvolvido o script de avaliação contínua. Foi criado o schema avaliacaocontinua e as tabelas company, employee, manages e works com suas respectivas chaves primárias e restrições NOT NULL. Em seguida, foram criadas as chaves estrangeiras com ações em cascata (ON UPDATE CASCADE e ON DELETE CASCADE) para garantir a integridade referencial entre as relações works/employee, works/company e manages/employee.
+
+Atividade 07 - Gerenciamento de usuários e privilégios
+Descrição da atividade: Na atividade 07, foi desenvolvido o script de gerenciamento de acessos. Foram criados os logins e usuários User_A, User_B, User_C, User_D e User_E no banco de dados. Em seguida, foram concedidos ao User_A privilégios de SELECT, INSERT, UPDATE e DELETE em todas as relações do schema university, com exceção da tabela classroom, utilizando a cláusula WITH GRANT OPTION para permitir que o usuário repasse os privilégios a outros. Por fim, foi realizada uma consulta nas views de sistema para listar todas as permissões atribuídas ao User_A.
